@@ -9,7 +9,7 @@ Subir la aplicacion de su interes ,formato apk, y la extension .aia.
 
 **Ronald
 
-
+Mi palicacion es sobre la combinacion de los colores primarios
 
 **Jonathan
 mi app es sobre una brujula con su calculo de azimut adicional con la herramienta del conteo de pasos y distancia recorridas (la brujula funcionara si el telefono tiene sensor de movimiento asi mismo si tiene la capacidad de contar pasos)
